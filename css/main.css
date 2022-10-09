@@ -239,6 +239,7 @@ header nav .form i {
     background-image: url(../imgs//spirit-guide_1920x1080.jpg);
     background-size: cover;
     position: relative;
+    background-position-x: center;
 }
 
 .landing .overlay {
@@ -458,6 +459,7 @@ header nav .form i {
     display: flex;
     align-items: center;
     overflow: hidden;
+    background-position-x: center;
 }
 
 .desigen::before {
