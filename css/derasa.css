@@ -527,7 +527,7 @@ justify-content: space-evenly;
     /* grayscale blur  
     opacity: .1;
 55 gradient background-imge-linear-gradient( (diraction)or numbers- color stop1 - color stop2......)     
-56 caret-color  pointer-events in html contenteditable(true)
+56 caret-color  pointer-events in html contenteditable(true)    
 
         div {
     caret-color: yellow;
